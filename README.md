@@ -75,8 +75,6 @@ Service accounts are the highest-value targets: they frequently hold elevated pr
 
 | File | Description |
 |---|---|
-| `local_rules.xml` | Custom Wazuh detection rule 100002 — filters Event ID 4769 for RC4 encryption type `0x17` |
-| `kerb-block.ps1` | Active Response SOAR script — disables compromised account via `Disable-ADAccount`, writes timestamped audit entry to `C:\Security\SOAR.log` |
 | `kerberoast_alert.json` | Raw Wazuh alert — fired rule, MITRE T1558.003 mapping, attacker IP, targeted account, full event context |
 | `windows_raw_log.xml` | Raw Windows Security Event ID 4769 from DC01 — source telemetry confirming `TicketEncryptionType: 0x17` |
 | `README.md` | This file |
