@@ -3,6 +3,7 @@
 > **MITRE ATT&CK T1558.003 · Wazuh Cloud v4.14.4 · Sysmon v15.15 · Windows Server 2019 · Impacket · PowerShell**
 
 ---
+​# `Official Integration`: This logic was **merged** into the official Wazuh repository on April 20, 2026. [View the Merged PR here](https://github.com/wazuh/integrations/tree/main/integrations/kerberoast_mitigation).
 
 ## Overview
 
