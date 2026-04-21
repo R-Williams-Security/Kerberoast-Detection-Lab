@@ -302,5 +302,6 @@ PowerShell · XML (Wazuh rule and ossec.conf authoring)
 
 Note: All IP addresses (192.168.220.x) and hostnames displayed are part of a logically isolated, private NAT laboratory environment. No production infrastructure or PII is exposed.
 
-> **Portfolio:** [williamsransom-portfolio — Active Directory SOAR: Automated Kerberoast Mitigation](https://sites.google.com/view/williamsransom-portfolio/project-page/active-directory-soar-automated-kerberoast-mitigation)
+> **Portfolio:** [R-Williams-Security-portfolio — Active Directory SOAR: Automated Kerberoast Mitigation](https://sites.google.com/view/williamsransom-portfolio/project-page/active-directory-soar-automated-kerberoast-mitigation)
+> **LinkedIn:** [R-Williams-Security](https://www.linkedin.com/in/R-Williams-Security/)
 > **Contact:** williamsransom4@gmail.com
