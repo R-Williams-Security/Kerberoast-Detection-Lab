@@ -305,3 +305,14 @@ Note: All IP addresses (192.168.220.x) and hostnames displayed are part of a log
 > **Portfolio:** [R-Williams-Security-portfolio — Active Directory SOAR: Automated Kerberoast Mitigation](https://sites.google.com/view/williamsransom-portfolio/project-page/active-directory-soar-automated-kerberoast-mitigation)
 > **LinkedIn:** [R-Williams-Security](https://www.linkedin.com/in/R-Williams-Security/)
 > **Contact:** williamsransom4@gmail.com
+
+
+
+## 💛 Support This Project
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-💛-ffb627?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/R-Williams-Security)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/R-Williams-Security?style=for-the-badge&color=ffb627&label=Sponsors)](https://github.com/sponsors/R-Williams-Security)
+
+WMF closes the Kerberoasting detection window in under 2 seconds — merged into `wazuh/integrations` and endorsed by Wazuh's CEO — and it's free, forever. If it protects your Active Directory environment, **[sponsor via GitHub](https://github.com/sponsors/R-Williams-Security)** to help fund v2.0 (AS-REP Roasting & Golden Ticket defense); Nigerian/African supporters without USD cards can back it directly via NGN bank transfer on the **[WMF Sponsorship Hub](https://r-williams-security.github.io/Wmf-sponsor/)**.
+
+📄 Full project context & live demo: **[WMF Project Site](https://r-williams-security.github.io/Wmf-sponsor/)**
